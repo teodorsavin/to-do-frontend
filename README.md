@@ -25,4 +25,4 @@ npm start
 ```
 
 The app is configured to use the port `9500`
-You can access the app on (http://app.todo.local:9500/)[http://app.todo.local:9500/].
+You can access the app on [http://app.todo.local:9500/](http://app.todo.local:9500/).
